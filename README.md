@@ -1,4 +1,4 @@
-Bu projede, diş hekimliği veriseti kullanılarak YOLOv8 ile nesne tespiti (object detection) ve model performans değerlendirmesi gerçekleştirilmektedir. Aşağıda projenin detaylı bir `README.md` dosyası bulunmaktadır:
+Bu projede, diş röntgeni veriseti kullanılarak YOLOv8 ile nesne tespiti (object detection) ve model performans değerlendirmesi gerçekleştirilmektedir. 
 
 ---
 
